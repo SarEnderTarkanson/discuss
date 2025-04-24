@@ -1,3 +1,3 @@
 "use server";
 
-export async function CreateComment() {}
+export async function createComment() {}
